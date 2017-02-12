@@ -1,3 +1,6 @@
+# conFusion
+Ristorante Con Fusion : a hotel website developed as part of Coursera exercise and assignments.
+
 This project uses Bootstrap.
 It is developed as part of 'Coursera:Front-end Web UI Frameworks' course exercises and assignments.
 
